@@ -8,6 +8,7 @@ public class testng {
 	@BeforeTest
 	public void beforeTest() {
 		System.out.println("hello");
+		
 	}
 	
 	@Test
